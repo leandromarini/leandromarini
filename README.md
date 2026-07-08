@@ -1,5 +1,4 @@
-<h1 align="center">Olá, eu sou o Leandro 👋</h1>
-<h3 align="center">Desenvolvedor Fullstack | Angular · Node.js · Spring Boot · PostgreSQL</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
@@ -12,7 +11,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 -  Desenvolvedor Fullstack com experiência em aplicações web completas, do levantamento de requisitos ao deploy em produção
 -  Atualmente desenvolvendo o **Albion Meta**, um SaaS completo para jogadores de Albion Online
@@ -22,7 +21,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológica
+###  Stack Tecnológica
 
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
