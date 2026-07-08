@@ -14,12 +14,11 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Desenvolvedor Fullstack com experiência em aplicações web completas, do levantamento de requisitos ao deploy em produção
-- 🏢 Atuei na **Destra Software** com Angular, Spring Boot, PostgreSQL e deploy na AWS
-- 🛠️ Atualmente desenvolvendo o **Albion Meta**, um SaaS completo para jogadores de Albion Online
-- 🌱 Explorando integração de IA em fluxos de desenvolvimento (Claude Code, MCP)
-- 🇬🇧 Inglês avançado
-- 📫 Aberto a oportunidades como Desenvolvedor Fullstack
+-  Desenvolvedor Fullstack com experiência em aplicações web completas, do levantamento de requisitos ao deploy em produção
+-  Atualmente desenvolvendo o **Albion Meta**, um SaaS completo para jogadores de Albion Online
+-  Explorando integração de IA em fluxos de desenvolvimento (Claude Code, MCP)
+-  Inglês avançado
+-  Aberto a oportunidades como Desenvolvedor Fullstack
 
 ---
 
