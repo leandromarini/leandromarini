@@ -1,16 +1,3 @@
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leandro.marini@live.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ###  Sobre mim
 
 -  Desenvolvedor Fullstack com experiência em aplicações web completas, do levantamento de requisitos ao deploy em produção
@@ -40,21 +27,12 @@
 
 ---
 
-### 📌 Projeto em destaque
+###  Projeto em destaque
 
 **[Albion Meta](https://albionmeta.app)** — SaaS completo para a comunidade de Albion Online
 - Analisador de mercado responsivo, editor de builds e sistema de tags híbrido de magias
 - Angular · Fastify · PostgreSQL (Drizzle ORM) · Redis · Docker
 - Autenticação OAuth (Google/Discord) com modelo de sessão de dois tokens
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-github]&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario-github]&layout=compact" height="165" />
-</p>
 
 ---
 
